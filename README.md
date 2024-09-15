@@ -30,7 +30,7 @@ This project is currently WIP, made with <3 by lunalawl
 
 ### All:
 
-- nothing yet
+- Video Overscan enabled by default
 
 ### DC1:
 

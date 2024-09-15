@@ -330,6 +330,7 @@
    (panels meta attract_movie_panel movie_overlay_panel)
    (focus movie_overlay_panel)
    (next_screen autosave_warning_screen)
+   (enter {profile_mgr set_overscan TRUE}) ; dx - enable overscan by default
    (skip_selected
       {ui goto_screen autosave_warning_screen})}
 {new
