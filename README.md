@@ -38,7 +38,7 @@ This project is currently WIP, made with <3 by lunalawl
 
 ### DC2:
 
-- No motion blur in menus
+- No motion blur
 
 ### DC3:
 
