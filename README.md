@@ -42,4 +42,4 @@ This project is currently WIP, made with <3 by lunalawl
 
 ### DC3:
 
-- stuff is on the table i promise
+- No motion blur
