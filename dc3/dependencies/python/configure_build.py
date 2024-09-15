@@ -5,7 +5,7 @@ import sys
 import argparse
 import os
 
-game_name = "Dance Central"
+game_name = "Dance Central 3"
 
 ninja = ninja_syntax.Writer(open("build.ninja", "w+"))
 
